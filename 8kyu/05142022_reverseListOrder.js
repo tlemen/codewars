@@ -1,0 +1,17 @@
+//NAME : TIMOTHY LEMEN
+//DATE : 05142022
+//CODEWARS KATA LEVEL 8
+
+//KATA DESCRIPTION
+//=================
+// In this kata you will create a function that takes in a list and returns a list with the reverse order.
+
+// Examples (Input -> Output)
+// * [1, 2, 3, 4]  -> [4, 3, 2, 1]
+// * [9, 2, 0, 7]  -> [7, 0, 2, 9]
+
+//Code Goes below here
+//====================
+function reverseList(list) {
+  return list.reverse()
+}
